@@ -1,3 +1,8 @@
+body {
+	background: rgb(2,0,36);
+	background: linear-gradient(#003049ff, #d62828ff, #f77f00ff, #fcbf49ff, #eae2b7ff)
+}
+
 div {
 	font-family: 'Quicksand', sans-serif;
 }
@@ -38,9 +43,11 @@ h1 {
 	color: #f77f00;
 	font-size: 60px;
 	padding: 10px;
+	border-style: ridge;
+	border-color: #003049;
+	margin: 2px;
 }
 
 .container-style {
-	background-color: #003049;
 	color: #eae2b7;
 }
