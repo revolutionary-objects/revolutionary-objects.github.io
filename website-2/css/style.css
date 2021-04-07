@@ -1,0 +1,55 @@
+body {
+	background: rgb(2,0,36);
+	background: linear-gradient(#003049ff, #d62828ff, #f77f00ff, #fcbf49ff, #eae2b7ff)
+}
+
+div {
+	font-family: 'Quicksand', sans-serif;
+}
+
+nav {
+	background-color: #d62828;
+}
+
+.navbar-brand {
+	color: #fcbf49;
+}
+
+.navbar-brand:hover {
+	color: #eae2b7;
+}
+
+.nav-link {
+	color: #fcbf49;
+}
+
+.nav-link:hover {
+	color: #eae2b7;
+}
+
+.btn-outline-success {
+	color: #d62828;
+	background-color: #fcbf49;
+	border-color: #d62828;
+}
+
+.btn-outline-success:hover {
+	background-color: #eae2b7;
+	color: #003049;
+	border-color: #003049;
+}
+
+h1 {
+	color: #f77f00;
+	font-size: 60px;
+	padding: 10px;
+}
+
+.container-style {
+	color: #eae2b7;
+}
+
+.card {
+	color: #eae2b7;
+	background-color: #003049;
+}
